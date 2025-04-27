@@ -2,6 +2,12 @@
 
 BidaIA is an AI-powered platform designed to simulate personalized, short-term internship experiences. By using your CV and role selection, it generates realistic internship projects, tasks, and feedback, helping you gain hands-on experience and professional development without the need to apply for traditional internships.
 
+<br>
+<div align="center">
+<img align="center" alt="isagi-goal" width="400" src="https://github.com/achraf-oujjir/BidaIA/blob/main/bidaia-logo.png">
+</div>
+<br>
+
 **Project Name:** BidaIA  
 **Meaning:** "BidaIA" combines the Arabic word "Bidaya" (meaning “beginning”) with "AI" (Artificial Intelligence), symbolizing the platform's mission to be the first step into the professional world through AI-powered micro-internships.
 
